@@ -1,4 +1,9 @@
 # 🔷 Personal Docker Notes / Codes / Experience 
+
+<p align="center">
+  <img src="https://www.nclouds.com/blog/wp-content/uploads/2018/10/reduce_docker_image_size_by_45.jpg" />
+</p>
+
 ## General Commands:
 
 `FROM`: Indicates from which base image the image to be created will be created. It is the only command that must be in the dockerfile file.
